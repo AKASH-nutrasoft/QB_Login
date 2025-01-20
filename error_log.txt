@@ -1,0 +1,13 @@
+Session AccessToken missing during update_tokens.php execution.Session AccessToken missing during update_tokens.php execution.Session AccessToken missing during update_tokens.php execution.Call to a member function getAccessToken() on null
+#0 C:\xampp\htdocs\QB_Connector\index.php(5): require()
+#1 {main}Call to a member function getAccessToken() on null
+#0 C:\xampp\htdocs\QB_Connector\index.php(5): require()
+#1 {main}Call to a member function getAccessToken() on null
+#0 C:\xampp\htdocs\QB_Connector\index.php(5): require()
+#1 {main}Call to a member function getAccessToken() on null
+#0 C:\xampp\htdocs\QB_Connector\index.php(5): require()
+#1 {main}An error has occured while trying to connect to Quickbooks
+#0 C:\xampp\htdocs\QB_Connector\connected.php(42): connect_db_customer('eyJlbmMiOiJBMTI...', '2025/01/14 21:2...', 'AB117456089734B...', '2025/04/25 21:2...')
+#1 {main}An error has occured while trying to connect to Quickbooks
+#0 C:\xampp\htdocs\QB_Connector\connected.php(42): connect_db_customer('eyJlbmMiOiJBMTI...', '2025/01/14 21:2...', 'AB117456089734B...', '2025/04/25 21:2...')
+#1 {main}
